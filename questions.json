@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is bhofda?",
+      "answer": "Bhofda",
+      "incorrects": [
+        "sobda",
+        "dhobda",
+        "khopda"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is Elener?",
+      "answer": "Hi",
+      "incorrects": [
+        "sobda",
+        "dhobda",
+        "khopda"
+      ]
+    },
+    {
+      "question": "What is Capital of Pakistan",
+      "answer": "ISB",
+      "incorrects": [
+        "FSD",
+        "LHR",
+        "KARACHI"
+      ],
+      "id": 3
+    }
+  ]
+}
